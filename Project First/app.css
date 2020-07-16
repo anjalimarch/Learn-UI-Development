@@ -2,6 +2,11 @@ li
 {
 
 color:brown;
+/* border-color: red;
+border-width: 5 px;
+border-style: solid; */
+
+border: 2px solid blue
 
 }
 
@@ -18,8 +23,20 @@ h2{
 
 
 h3{
+background-color: rgb(255, 150, 80);
+color:blue;
 
-color:red;
         
+}
+body{
+    
+    
+    background-color: pink;
+
+background:url(https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+
+background-repeat: no-repeat;
+background-size: cover;
+
 }
  

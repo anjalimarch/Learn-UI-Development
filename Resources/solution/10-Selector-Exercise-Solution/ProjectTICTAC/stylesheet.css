@@ -1,0 +1,59 @@
+
+td
+
+{/* content */
+/*Border  */
+/*Width  */
+/*Margin */
+/*Padding */
+
+
+width: 100px;
+
+height:100px ;
+
+background: pink;
+
+
+
+
+}
+
+table{
+
+  margin: auto;
+}
+
+.vertical{
+
+
+  border-left:solid 1px  black;
+  border-right: solid 1px black;
+
+
+
+}
+
+
+
+.horizontal{
+
+
+  border-top:solid 1px  black;
+  border-bottom: solid 1px black;
+
+
+
+}
+
+tr:nth-of-type(2)>td:nth-of-type(2){
+
+
+  border-top:solid 1px  black;
+  border-bottom: solid 1px black;
+
+}
+
+
+
+
